@@ -17,8 +17,8 @@ class PicPay
 
     public function __construct()
     {
-        $this->picpayToken = '218dad8d-b4b2-4d9c-81b6-516ae171d1b6';
-        $this->picpaySellerToken = '70a95344-5abb-4e34-8130-52c2519ef19e';
+        $this->picpayToken = 'Key';
+        $this->picpaySellerToken = 'Shop Key';
         $this->baseUrl = 'https://appws.picpay.com/ecommerce/public';
     }
     
