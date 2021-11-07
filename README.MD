@@ -7,6 +7,13 @@ Configure suas credenciais em App/Classes/PicPay.PHP
 
 
 
+#### Instale com o composer
+
+```php
+
+composer install
+
+```
 
 ## API Reference
 
