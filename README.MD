@@ -1,7 +1,7 @@
 
 # Api PicPay V1.0 PHP 7
 
-Api desenvolvida para processar pagamentos no PicPay
+Api desenvolvida para processar pagamentos no PicPay por Luan Schons Griebler
 
 Configure suas credenciais em App/Classes/PicPay.PHP
 
