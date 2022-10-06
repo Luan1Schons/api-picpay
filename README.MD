@@ -11,7 +11,7 @@ Configure suas credenciais em App/Classes/PicPay.PHP
 
 ```php
 
-composer install
+composer install luanschons/picpay
 
 ```
 
